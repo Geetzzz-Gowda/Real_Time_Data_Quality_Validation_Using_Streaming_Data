@@ -1,5 +1,3 @@
-# Real_Time_Data_Quality_Validation_Using_Streaming_Data
-Real_Time_Data_Quality_Validation_Using_Streaming_Data
 # Real-Time Data Quality Validation Using Streaming Data
 
 A Python-based project demonstrating real-time data quality checks on streaming data (e.g., from Kafka), using a producer-consumer model.
